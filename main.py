@@ -1,5 +1,6 @@
 # Main module for the Student Organization Management System
 
+import utils.session
 import mysql.connector
 from datetime import datetime
 from typing import Tuple
